@@ -1,3 +1,11 @@
+# p5.cpp Starter Project
+
+This project serves as a starter template for using the p5.cpp library to create simple graphical sketches in C++.
+
+## Introduction
+
+p5.cpp is a C++ library inspired by the p5.js JavaScript library. It provides a simple and intuitive way to create interactive graphics and animations in C++.
+
 ## Installation
 
 To use this project, you need to have the following dependencies installed:
